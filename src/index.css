@@ -14,7 +14,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 60vh;
+  height: 68vh;
 }
 
 .container{
@@ -67,7 +67,7 @@ ul{
   margin-right: 150px;
   border-bottom: 1px solid white;
   border-radius: 5px;
-  cursor: pointer;
+  transition: 400ms;
 }
 
 .borde1{
@@ -91,7 +91,7 @@ ul{
 
 .worktop{
   background-color: white;
-  height: 93vh;
+  height: 93.4vh;
   width: 390px;
   border-left: 8px solid black;
   position: relative;
@@ -115,7 +115,7 @@ h1{
 
 .present{
   display: flex;
-  margin-top: 105px;
+  margin-top: 135px;
 }
 
 .text1{
